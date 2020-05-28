@@ -1,0 +1,25 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::additional_module_products"
+msgid "additional_module_products"
+msgstr "additional_module_products"
+
+msgctxt "Addons::description::additional_module_products"
+msgid "additional_module_products"
+msgstr "additional_module_products"
+
+msgctxt "Languages::product_condition"
+msgid "Product condition"
+msgstr "Product condition"
+
+msgctxt "Languages::destroyed"
+msgid "destroyed"
+msgstr "Destroyed"
+
+msgctxt "Languages::good"
+msgid "good"
+msgstr "Good"
