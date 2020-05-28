@@ -1,0 +1,1 @@
+<th width="9%" class="mobile-hide">{__('product_condition')}</th>
